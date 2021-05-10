@@ -1,129 +1,28 @@
-# kasztanlang
-Język "programowania" z samymi kasztanami
+# cementlang
+Język "programowania" z samym cementem
 
 Komendy:
-```kasztanlang
-kasztan+;
+```cementlang
+cement+;
 ```
 Zwiększ licznik o 1
 
 
 ```kasztanlang
-kasztan-;
+cement-;
 ```
 Zmniejsz licznik o 1
 
 
 ```kasztanlang
-kasztan;
+cement;
 ```
 Wypisanie licznika
 
 
-```kasztanlang
-kasztan_jakisplik.php;
+```cementlang
+cement_jakisplik.php;
 ```
 Uruchom plik php
 
-### Przykład - liczenie do 84
-```kasztanlang
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan+;
-kasztan;
-```
-Przepiękny kod, nieprawdaż?
 
-Na szczęście możemy go przyśpieszyć za pomocą PHP.
-
-plik z kasztanlang:
-```
-kasztan_h.php
-kasztan;
-```
-plik z php:
-```php
-<?php
-$count = 84;
-```
